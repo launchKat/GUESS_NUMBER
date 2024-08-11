@@ -29,5 +29,4 @@ def computer_guess(x):
         
     print (f'Yay! The computer guess your number, {guess}, correctly!')
 
-
-guess(10)
+computer_guess(10)
